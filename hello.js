@@ -31,7 +31,6 @@ var list = tabris.create("CollectionView", {
       textView.set("text", item);
     });
   }
-  items: items
 }).appendTo(page);
 
 var button = tabris.create("Button", {
