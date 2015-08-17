@@ -3,6 +3,8 @@
   "description": "Tabris.js - Hello, World!",
   "main": "hello.js",
   "dependencies": {
-    "tabris": "1.1.0"
+    "firebase": "^2.2.9",
+    "tabris": "1.1.0",
+    "tabris-js-node": "0.0.1"
   }
 }
