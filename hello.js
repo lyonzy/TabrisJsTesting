@@ -31,6 +31,12 @@ var list = tabris.create("CollectionView", {
       textView.set("text", item);
     });
   }
+  items: items
+}).appendTo(page);
+
+var button = tabris.create("Button", {
+  text: "Native Widgets",
+  layoutData: {centerX: 0, top: 100}
 }).appendTo(page);
 console.log('created list');
 
