@@ -7,4 +7,5 @@
   <author email="dev@tabrisjs.com" href="https://tabrisjs.com">
    Tabris.js Team
   </author>
+  <plugin name="phonegap-plugin-barcodescanner" version="4.1.0" />
 </widget>
